@@ -14,4 +14,4 @@ entry_points:
     knn:
         parameters:
             n_neighbors: {type: int, default: 5}
-        command: 'python3 -m homework --model knn --n_neighbors {n_neighbors}'
+        command: 'python3 -m homework --model knn --n_neighbors {n_neighbors}'
