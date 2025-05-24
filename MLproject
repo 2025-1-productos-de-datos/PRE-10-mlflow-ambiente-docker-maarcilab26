@@ -1,8 +1,8 @@
 name: Proyecto de demostracion
 #Si no encuentra la imagen en la máquina local, la descarga de la nube
-docker_env:
-    image:  jdvelasq/mlflow:example
-    build_context: .
+# docker_env:
+#     image:  jdvelasq/mlflow:example
+#     build_context: .
 
 entry_points:
     elasticnet:
